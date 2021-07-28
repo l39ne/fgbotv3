@@ -1,4 +1,4 @@
-// perintah dasar termux
+// termux
 
 const termux = () => { 
 return `  ≡ *TOOLS TERMUX*
