@@ -24,6 +24,6 @@ Para mostrar el contenido de un archivo
 Mostrar ubicación actual
 
 ▢ *NOTA*
-El signo -- se reemplaza con el nombre del archivo / carpeta``
+El signo -- se reemplaza con el nombre del archivo / carpeta`
 }
 exports.termux = termux
