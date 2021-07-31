@@ -71,7 +71,7 @@ Para obtener información más detallada, comuníquese conmigo a través de las 
 <p>
 <a href="http://wa.me/59172945992" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/fg98._/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://m.facebook.com/fg98f" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
+<a href="https://m.facebook.com/fg98ff" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
 </p>
 
   </details>
