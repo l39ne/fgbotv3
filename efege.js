@@ -176,7 +176,7 @@ Fg.on('group-participants-update', async (anu) => {
 ───────────────────
 ▢ *Pide las reglas del grupo*
 
-▢ Escriba *{prefix}verify* para comenzar a usar el Bot.`
+▢ Escriba *${prefix}verify* para comenzar a usar el Bot.`
 				
 				let buff = await getBuffer(ppimg)
 				Fg.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
