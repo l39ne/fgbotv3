@@ -238,7 +238,7 @@ const menuOwner = (prefix, tanggal, jam) => {
 
 const menuGrup = (prefix, tanggal, jam) => {
   return `▢ ${tanggal()}
-▢ Jam ${jam} (Asia/Jakarta)
+▢ Jam ${jam} 
 
   ≡ *MENU GRUPO*
 ┌───⊷ *GRUPO* ⊶
