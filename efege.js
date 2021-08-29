@@ -105,7 +105,7 @@ const banned = [
  
 //número dueño del bot
 const ownerNumber = [
-  "541158332090.whatsapp.net",
+  "5491158332090.whatsapp.net",
   ];
 
 //*********** 𝗔𝗣𝗜𝗞𝗘𝗬 ***********//
@@ -211,7 +211,7 @@ Fg.on('group-participants-update', async (anu) => {
 				let buff = await getBuffer(ppimg)
 				Fg.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
-				num = anu.participants[0]
+				num = ]
 				try {
 					ppimg = await Fg.getProfilePicture(`${num.split('@')[0]}@c.us`)
 				} catch {
