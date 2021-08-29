@@ -105,7 +105,7 @@ const banned = [
  
 //número dueño del bot
 const ownerNumber = [
-  "59172945992@s.whatsapp.net",
+  "5491158332090@s.whatsapp.net",
   ];
 
 //*********** 𝗔𝗣𝗜𝗞𝗘𝗬 ***********//
@@ -1331,9 +1331,9 @@ case 'owner':
 case 'creator':
 case 'creador':
 
-    nomor = '59172945992@s.whatsapp.net'
+    nomor = '5491158332090@s.whatsapp.net'
     owner = await fs.readFileSync('./image/fg.jpeg').toString('base64')
-    capt = "Desarrollador\nIg: fg98._\nBOT : DyLux"
+    capt = "Desarrollador\nIg: itachi.xd._\nBOT : DyLux"
     const been = {
     text: `✅ @${nomor.split("@")[0]} Aqui mi dueño, solo chatea si es necesario`,
   contextInfo: {
