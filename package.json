@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "FG98",
+  "author": "TOBI",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
